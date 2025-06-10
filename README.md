@@ -4,7 +4,7 @@
 
 1. Clone the repository:
 ```
-git clone https://github.com/your-username/your-project.git
+git clone https://github.com/abdulkarimrahhal/academy_backend.git
 ```
 2. Install the dependencies:
 ```
